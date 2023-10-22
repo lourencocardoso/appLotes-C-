@@ -1,0 +1,32 @@
+data_venda,produto,quantidade,preco_unitario
+2023-10-01,Smartphone,5,599.99
+2023-10-02,Notebook,2,899.99
+2023-10-03,TV 4K,3,799.99
+2023-10-04,Fones de Ouvido,10,49.99
+2023-10-05,Tablet,7,249.99
+2023-10-06,Impressora Multifuncional,4,159.99
+2023-10-07,Console de Jogos,2,349.99
+2023-10-08,Smartwatch,6,149.99
+2023-10-09,Mouse sem Fio,15,19.99
+2023-10-10,Teclado USB,12,29.99
+2023-10-11,Câmera DSLR,1,699.99
+2023-10-12,Livro,20,9.99
+2023-10-13,Filmadora HD,3,349.99
+2023-10-14,Monitor de 24 polegadas,8,199.99
+2023-10-15,HD Externo 1TB,5,79.99
+2023-10-16,Carregador Portátil,10,14.99
+2023-10-17,Mouse Gamer,6,39.99
+2023-10-18,Adaptador HDMI,15,9.99
+2023-10-19,Caixa de Som Bluetooth,4,69.99
+2023-10-20,Webcam,8,49.99
+2023-10-21,Headphone sem Fio,2,129.99
+2023-10-22,Console de Jogo Retro,3,79.99
+2023-10-23,Máquina de Café Expresso,1,299.99
+2023-10-24,Aspirador de Pó,2,149.99
+2023-10-25,Panela Elétrica de Arroz,5,49.99
+2023-10-26,Conjunto de Panelas Antiaderentes,2,79.99
+2023-10-27,Relógio de Parede,7,19.99
+2023-10-28,Quadro Decorativo,4,29.99
+2023-10-29,Luminária de Mesa,3,14.99
+2023-10-30,Cadeira de Escritório,1,119.99
+
